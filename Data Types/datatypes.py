@@ -1,26 +1,26 @@
-# sugar = 3
+sugar = 3
 
-# print(f"Sugar ammount is {sugar}")
+print(f"Sugar ammount is {sugar}")
 
-# sugar = 5
+sugar = 5
 
-# print(f"Sugar ammount is {sugar}")
+print(f"Sugar ammount is {sugar}")
 
-# print (f"Id of 3 : {id(3)}")
-# print (f"Id of 5 : {id(5)}")
+print (f"Id of 3 : {id(3)}")
+print (f"Id of 5 : {id(5)}")
 
 # immutable
 
-# car = set()
+car = set()
 
-# print(f"Brand of cars : {car}")
-# print(f"Id of car : {id(car)}")
+print(f"Brand of cars : {car}")
+print(f"Id of car : {id(car)}")
 
-# car.add("BMW")
-# car.add("Audi")
+car.add("BMW")
+car.add("Audi")
 
-# print(f"After adding brands : {car}")
-# print(f"Id of car after adding brands: {id(car)}")
+print(f"After adding brands : {car}")
+print(f"Id of car after adding brands: {id(car)}")
 
 # Mutable 
 
